@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Crepitare.
-- 👀 I’m interested in games, food, social contact.
+- 👀 I’m interested in games, food, and more food.
 - 🌱 I’m currently learning embbeded systems firmware development.
 - 📫 You know how to reach me.
 - ⚡ Fun fact: Not a single lemon.
